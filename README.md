@@ -3,8 +3,8 @@
 <br>
 <h2>Tacnologias utilizadas</h2>
 <br>
-  -HTML
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="100px"></img>
 <br>
-  -CSS
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="100px"></img>
 <br>
-  -JavaScript
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" width="100px"></img>
