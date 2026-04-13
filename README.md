@@ -1,7 +1,6 @@
 <h1>Lista de Tarefas</h1>
 <br>
-<br>
-<h2>Tacnologias utilizadas</h2>
+<h2>Tacnologias utilizadas:</h2>
 <br>
 <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="100px"></img>
 <br>
